@@ -21,6 +21,8 @@ git status
 
 git add Filename
 
+git add .
+
 git commit -m " Commit Message"
 
 git push origin main
@@ -30,3 +32,13 @@ or
 git branch -M main
 git remote add origin https://github.com/RakibulHossainHimel/gg.git
 git push -u origin main
+
+
+
+---------------------------Remove origin command------------------------
+
+git remote remove origin
+
+---------------------------Check origin command------------------------
+
+git remote -v
