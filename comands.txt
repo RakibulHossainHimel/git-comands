@@ -6,8 +6,12 @@ git init
 
 or
 
+---------------------------------------clone comands---------------------------------
 git clone https://github.com/captain-binary/demo
+git clone https://github.com/captain-binary/demo/folder name you want to clone
 
+---------------------------------------Download comands---------------------------------
+curl -L -o FileName.zip  https://github.com/captain-binary/demo/archive/brance.zip
 
 git log
 
