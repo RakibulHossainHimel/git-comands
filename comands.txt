@@ -42,3 +42,20 @@ git remote remove origin
 ---------------------------Check origin command------------------------
 
 git remote -v
+
+---------------------------git ignore process------------------------
+
+create a .gitignore File
+
+instide git you have to enter the git ignore file or folder
+
+folderName/
+FileName
+*.extension
+
+
+---------------------git add clear commands------------------------------
+
+git reset
+git reset <file-name>
+git reset .
