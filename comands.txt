@@ -4,14 +4,25 @@ git config --global user.email "your_email@example.com"
 
 git init
 
-git add Filename
+or
 
-git commit -m " Commit Message"
+git clone https://github.com/captain-binary/demo
+
 
 git log
 
 git status
 
+(add + commit + Push)
+
+git add Filename
+
+git commit -m " Commit Message"
+
 git push origin main
 
 or 
+
+git branch -M main
+git remote add origin https://github.com/RakibulHossainHimel/gg.git
+git push -u origin main
