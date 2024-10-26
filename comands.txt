@@ -11,3 +11,7 @@ git commit -m " Commit Message"
 git log
 
 git status
+
+git push origin main
+
+or 
